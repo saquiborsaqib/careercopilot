@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Data Analyst",
+    "description": "Analyzes datasets to uncover trends, builds reports and dashboards, and supports data-driven business decisions.",
+    "industry": "Technology",
+    "demand_level": "high",
+    "skills": [
+      {"name": "SQL", "importance": "essential", "minimum_level": "intermediate"},
+      {"name": "Excel", "importance": "essential", "minimum_level": "intermediate"},
+      {"name": "Statistics", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Python", "importance": "important", "minimum_level": "beginner"},
+      {"name": "Power BI", "importance": "useful", "minimum_level": "beginner"},
+      {"name": "Data Visualization", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Communication", "importance": "important", "minimum_level": "intermediate"}
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "Builds, trains and deploys machine learning models into production systems.",
+    "industry": "Technology",
+    "demand_level": "high",
+    "skills": [
+      {"name": "Python", "importance": "essential", "minimum_level": "advanced"},
+      {"name": "Machine Learning", "importance": "essential", "minimum_level": "advanced"},
+      {"name": "Statistics", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "SQL", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Data Structures", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Deep Learning", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Cloud Computing", "importance": "useful", "minimum_level": "beginner"}
+    ]
+  },
+  {
+    "title": "Software Developer",
+    "description": "Designs, builds and maintains software applications across the stack.",
+    "industry": "Technology",
+    "demand_level": "high",
+    "skills": [
+      {"name": "Data Structures", "importance": "essential", "minimum_level": "advanced"},
+      {"name": "Algorithms", "importance": "essential", "minimum_level": "advanced"},
+      {"name": "Java", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "REST APIs", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Git", "importance": "essential", "minimum_level": "intermediate"},
+      {"name": "System Design", "importance": "important", "minimum_level": "beginner"},
+      {"name": "Testing & QA", "importance": "useful", "minimum_level": "beginner"}
+    ]
+  },
+  {
+    "title": "Data Scientist",
+    "description": "Applies statistics and machine learning to extract insights and build predictive models from complex data.",
+    "industry": "Technology",
+    "demand_level": "high",
+    "skills": [
+      {"name": "Python", "importance": "essential", "minimum_level": "advanced"},
+      {"name": "Statistics", "importance": "essential", "minimum_level": "advanced"},
+      {"name": "Machine Learning", "importance": "essential", "minimum_level": "intermediate"},
+      {"name": "SQL", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Data Visualization", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Deep Learning", "importance": "useful", "minimum_level": "beginner"},
+      {"name": "Communication", "importance": "important", "minimum_level": "intermediate"}
+    ]
+  },
+  {
+    "title": "Full Stack Web Developer",
+    "description": "Builds end-to-end web applications covering front-end interfaces and back-end services.",
+    "industry": "Technology",
+    "demand_level": "high",
+    "skills": [
+      {"name": "JavaScript", "importance": "essential", "minimum_level": "advanced"},
+      {"name": "React", "importance": "essential", "minimum_level": "intermediate"},
+      {"name": "Node.js", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "HTML", "importance": "essential", "minimum_level": "intermediate"},
+      {"name": "CSS", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "REST APIs", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Database Design", "importance": "useful", "minimum_level": "beginner"},
+      {"name": "Git", "importance": "essential", "minimum_level": "intermediate"}
+    ]
+  },
+  {
+    "title": "DevOps Engineer",
+    "description": "Automates build, test and deployment pipelines and manages cloud infrastructure reliability.",
+    "industry": "Technology",
+    "demand_level": "medium",
+    "skills": [
+      {"name": "Linux", "importance": "essential", "minimum_level": "intermediate"},
+      {"name": "Docker", "importance": "essential", "minimum_level": "intermediate"},
+      {"name": "Kubernetes", "importance": "important", "minimum_level": "beginner"},
+      {"name": "CI/CD", "importance": "essential", "minimum_level": "intermediate"},
+      {"name": "Cloud Computing", "importance": "essential", "minimum_level": "intermediate"},
+      {"name": "Python", "importance": "useful", "minimum_level": "beginner"},
+      {"name": "Computer Networks", "importance": "important", "minimum_level": "beginner"}
+    ]
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "description": "Monitors, detects and responds to security threats and vulnerabilities across systems and networks.",
+    "industry": "Technology",
+    "demand_level": "high",
+    "skills": [
+      {"name": "Cybersecurity Fundamentals", "importance": "essential", "minimum_level": "advanced"},
+      {"name": "Networking Security", "importance": "essential", "minimum_level": "intermediate"},
+      {"name": "Computer Networks", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Linux", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Problem Solving", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Python", "importance": "useful", "minimum_level": "beginner"}
+    ]
+  },
+  {
+    "title": "Business Analyst",
+    "description": "Bridges business needs and technical solutions by analyzing requirements and processes.",
+    "industry": "Business",
+    "demand_level": "medium",
+    "skills": [
+      {"name": "Excel", "importance": "essential", "minimum_level": "advanced"},
+      {"name": "SQL", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Communication", "importance": "essential", "minimum_level": "advanced"},
+      {"name": "Data Visualization", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Project Management", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Problem Solving", "importance": "important", "minimum_level": "intermediate"}
+    ]
+  },
+  {
+    "title": "Product Manager",
+    "description": "Defines product strategy and roadmap, coordinating between engineering, design and business stakeholders.",
+    "industry": "Business",
+    "demand_level": "medium",
+    "skills": [
+      {"name": "Communication", "importance": "essential", "minimum_level": "advanced"},
+      {"name": "Project Management", "importance": "essential", "minimum_level": "advanced"},
+      {"name": "Leadership", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Problem Solving", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Data Visualization", "importance": "useful", "minimum_level": "beginner"},
+      {"name": "Agile/Scrum", "importance": "important", "minimum_level": "intermediate"}
+    ]
+  },
+  {
+    "title": "QA / Test Engineer",
+    "description": "Designs and executes test plans to ensure software quality, using manual and automated testing.",
+    "industry": "Technology",
+    "demand_level": "medium",
+    "skills": [
+      {"name": "Testing & QA", "importance": "essential", "minimum_level": "advanced"},
+      {"name": "Java", "importance": "useful", "minimum_level": "beginner"},
+      {"name": "Python", "importance": "useful", "minimum_level": "beginner"},
+      {"name": "Git", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Problem Solving", "importance": "important", "minimum_level": "intermediate"},
+      {"name": "Agile/Scrum", "importance": "useful", "minimum_level": "beginner"}
+    ]
+  }
+]

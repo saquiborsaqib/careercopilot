@@ -1,0 +1,13 @@
+# Optional, heavier AI/OCR dependencies.
+#
+# The app is fully functional without these: backend/ai/embeddings.py falls
+# back to a scikit-learn HashingVectorizer for semantic similarity, and
+# backend/vector/faiss_index.py falls back to a NumPy cosine-similarity scan.
+# Resume OCR (backend/processing/ocr.py) simply no-ops without these installed.
+#
+# Install with: pip install -r requirements-ai-extra.txt
+sentence-transformers>=3,<4
+faiss-cpu>=1.8,<2
+pytesseract>=0.3,<1
+pdf2image>=1.17,<2
+Pillow>=10,<12

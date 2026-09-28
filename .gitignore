@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+careerpilot.db
+alembic_check.db
+uploads/
+.pytest_cache/
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+.claude/scheduled_tasks.lock

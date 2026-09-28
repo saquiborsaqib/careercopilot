@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Data Analyst Intern",
+    "organization": "Infosys",
+    "opportunity_type": "internship",
+    "description": "6-month internship analyzing business datasets and building dashboards.",
+    "location": "Bengaluru",
+    "eligibility": "Open to B.Tech students in any branch, final year or recent graduates.",
+    "application_url": "https://www.infosys.com/careers/",
+    "deadline": "2026-11-15T00:00:00Z",
+    "source": "company-careers-page"
+  },
+  {
+    "title": "Software Engineer Intern",
+    "organization": "TCS",
+    "opportunity_type": "internship",
+    "description": "Internship building and testing enterprise software applications.",
+    "location": "Pune",
+    "eligibility": "B.Tech/B.E. CSE, IT or ECE students in their final year.",
+    "application_url": "https://www.tcs.com/careers",
+    "deadline": "2026-11-30T00:00:00Z",
+    "source": "company-careers-page"
+  },
+  {
+    "title": "Machine Learning Intern",
+    "organization": "Fractal Analytics",
+    "opportunity_type": "internship",
+    "description": "Work on real-world ML projects with a mentor-led analytics team.",
+    "location": "Remote",
+    "eligibility": "Any graduate or final-year student with Python and ML fundamentals.",
+    "application_url": "https://fractal.ai/careers",
+    "deadline": "2026-10-31T00:00:00Z",
+    "source": "company-careers-page"
+  },
+  {
+    "title": "Junior Data Analyst",
+    "organization": "Capgemini",
+    "opportunity_type": "job",
+    "description": "Entry-level role analyzing client data and preparing reports.",
+    "location": "Hyderabad",
+    "eligibility": "B.Tech/B.Sc graduates in Computer Science, IT or Statistics.",
+    "application_url": "https://www.capgemini.com/careers/",
+    "deadline": "2026-12-01T00:00:00Z",
+    "source": "company-careers-page"
+  },
+  {
+    "title": "Associate Software Developer",
+    "organization": "Wipro",
+    "opportunity_type": "job",
+    "description": "Full-time role developing and maintaining enterprise applications.",
+    "location": "Bengaluru",
+    "eligibility": "B.Tech/B.E. graduates in any engineering branch.",
+    "application_url": "https://careers.wipro.com/",
+    "deadline": "2026-11-20T00:00:00Z",
+    "source": "company-careers-page"
+  },
+  {
+    "title": "Graduate Trainee - Data Science",
+    "organization": "Mu Sigma",
+    "opportunity_type": "job",
+    "description": "Structured training program for graduates entering data science roles.",
+    "location": "Bengaluru",
+    "eligibility": "Any graduates with strong analytical and quantitative skills.",
+    "application_url": "https://www.mu-sigma.com/careers",
+    "deadline": "2026-12-15T00:00:00Z",
+    "source": "company-careers-page"
+  },
+  {
+    "title": "Frontend Developer",
+    "organization": "Zoho Corporation",
+    "opportunity_type": "job",
+    "description": "Build and maintain user interfaces for Zoho's SaaS products.",
+    "location": "Chennai",
+    "eligibility": "B.Tech/B.E. graduates with strong JavaScript and React skills.",
+    "application_url": "https://www.zoho.com/careers/",
+    "deadline": "2026-11-25T00:00:00Z",
+    "source": "company-careers-page"
+  },
+  {
+    "title": "SSC CGL - Combined Graduate Level Examination",
+    "organization": "Staff Selection Commission",
+    "opportunity_type": "government",
+    "description": "National recruitment exam for Group B and C posts in central government ministries and departments.",
+    "location": "All India",
+    "eligibility": "Bachelor's degree from a recognized university, any branch, all graduates.",
+    "application_url": "https://ssc.nic.in/",
+    "deadline": "2026-10-10T00:00:00Z",
+    "source": "ssc.nic.in"
+  },
+  {
+    "title": "IBPS PO - Probationary Officer Recruitment",
+    "organization": "Institute of Banking Personnel Selection",
+    "opportunity_type": "government",
+    "description": "Recruitment for Probationary Officer positions across public sector banks.",
+    "location": "All India",
+    "eligibility": "Bachelor's degree in any discipline, all graduates.",
+    "application_url": "https://www.ibps.in/",
+    "deadline": "2026-10-25T00:00:00Z",
+    "source": "ibps.in"
+  },
+  {
+    "title": "UPSC Engineering Services Examination",
+    "organization": "Union Public Service Commission",
+    "opportunity_type": "government",
+    "description": "Recruitment for engineering officer posts in central government departments.",
+    "location": "All India",
+    "eligibility": "B.Tech/B.E. degree in Civil, Mechanical, Electrical or Electronics engineering.",
+    "application_url": "https://www.upsc.gov.in/",
+    "deadline": "2026-11-05T00:00:00Z",
+    "source": "upsc.gov.in"
+  },
+  {
+    "title": "RRB Junior Engineer Recruitment",
+    "organization": "Railway Recruitment Board",
+    "opportunity_type": "government",
+    "description": "Recruitment for Junior Engineer posts across Indian Railways zones.",
+    "location": "All India",
+    "eligibility": "Diploma or B.Tech in any engineering branch.",
+    "application_url": "https://www.rrbcdg.gov.in/",
+    "deadline": "2026-12-05T00:00:00Z",
+    "source": "rrbcdg.gov.in"
+  },
+  {
+    "title": "State Public Service Commission - Technical Assistant",
+    "organization": "State Public Service Commission",
+    "opportunity_type": "government",
+    "description": "Recruitment for technical assistant roles in state government departments.",
+    "location": "State-specific",
+    "eligibility": "B.Tech/B.Sc graduate in Computer Science or related field, domicile of the respective state.",
+    "application_url": "https://www.mponline.gov.in/",
+    "deadline": "2026-11-18T00:00:00Z",
+    "source": "state-psc"
+  }
+]
